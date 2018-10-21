@@ -1,5 +1,5 @@
 _repo: The-Golden-Bowl-Volume-1_4262
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'England -- Fiction'
 - !lcsh 'Adultery -- Fiction'
 - !lcc 'PS'
+- GITenberg
 title: The Golden Bowl — Volume 1
 url: http://www.gutenberg.org/ebooks/4262
